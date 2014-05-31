@@ -1,10 +1,12 @@
 AA Miles Poller
 ===============
 
-Polls the AA miles rewards map for a drop in mileage cost.
+A Node experiment.
 
-Uses twilio to send texts for notifications.
+Polls the AA miles rewards map for a drop in mileage cost. 
 
-A node experiment.
+Uses twilio to send texts for notifications (success, errors, etc).
+
+
 
 
